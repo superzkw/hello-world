@@ -1,2 +1,7 @@
 # hello-world
-just test
+
+Hi Humans, 
+    
+    I'm Kaivi
+    
+                2018.6.18
